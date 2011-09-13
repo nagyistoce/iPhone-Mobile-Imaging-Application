@@ -1,0 +1,389 @@
+TSeniorDesignPOP
+v7
+r0
+t323117709.142601
+cCheck dependencies
+cProcessInfoPlistFile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/Info.plist SeniorDesignPOP-Info.plist
+cCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/MainWindow.xib
+cCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestView.xib
+cCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestView.xib
+cCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryView.xib
+cProcessPCH /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch.gch SeniorDesignPOP_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/main.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SeniorDesignPOPAppDelegate.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SeniorDesignPOPAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/BlockTestViewController.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/ImageTestViewController.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SummaryViewController.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP normal i386
+cGenerateDSYMFile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app.dSYM /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP
+cTouch /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestView.xib
+c000000004D9228300000000000001880
+t1301424176
+s6272
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.h
+c000000004D922AFC0000000000000128
+t1301424892
+s296
+i<UIKit/UIKit.h>
+i"SummaryViewController.h"
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.m
+c000000004D92283000000000000005CF
+t1301424176
+s1487
+i"BlockTestViewController.h"
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.xib
+c000000004D9228300000000000001880
+t1301424176
+s6272
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestView.xib
+c000000004D9228390000000000001880
+t1301424185
+s6272
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.h
+c000000004D922B050000000000000128
+t1301424901
+s296
+i<UIKit/UIKit.h>
+i"SummaryViewController.h"
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.m
+c000000004D92283900000000000005CF
+t1301424185
+s1487
+i"ImageTestViewController.h"
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.xib
+c000000004D9228390000000000001880
+t1301424185
+s6272
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SeniorDesignPOPAppDelegate.h
+c000000004D9228D30000000000000208
+t1301424339
+s520
+i<UIKit/UIKit.h>
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SeniorDesignPOPAppDelegate.m
+c000000004D92290A0000000000000A66
+t1301424394
+s2662
+i"SeniorDesignPOPAppDelegate.h"
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryView.xib
+c000000004D922841000000000000187A
+t1301424193
+s6266
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.h
+c000000004D9228410000000000000102
+t1301424193
+s258
+i<UIKit/UIKit.h>
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.m
+c000000004D92284100000000000005C9
+t1301424193
+s1481
+i"SummaryViewController.h"
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.xib
+c000000004D922841000000000000187A
+t1301424193
+s6266
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/MainWindow.xib
+c000000004D922AED0000000000006F24
+t1301424877
+s28452
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/SeniorDesignPOP_Prefix.pch
+c000000004D92281100000000000000C7
+t1301424145
+s199
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app
+t1301424909
+s306
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app.dSYM
+t1301424909
+s102
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/BlockTestView.nib
+t1301424907
+s764
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/BlockTestViewController.nib
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/ImageTestView.nib
+t1301424907
+s764
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/ImageTestViewController.nib
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/Info.plist
+t1301424906
+s629
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/MainWindow.nib
+t1301424907
+s1898
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/PkgInfo
+t1301424906
+s8
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP
+t1301424909
+s19508
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SummaryView.nib
+t1301424907
+s764
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SummaryViewController.nib
+t2
+s0
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/BlockTestViewController.o
+t1301424908
+s37796
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/ImageTestViewController.o
+t1301424908
+s37796
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SeniorDesignPOP.LinkFileList
+c000000004D922B0A0000000000000381
+t1301424906
+s897
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SeniorDesignPOPAppDelegate.o
+t1301424908
+s54820
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SummaryViewController.o
+t1301424908
+s37752
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/main.o
+t1301424908
+s6356
+
+N/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/main.m
+c000000004D922811000000000000017D
+t1301424145
+s381
+i<UIKit/UIKit.h>
+
+N/var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch.gch
+t1301424908
+s15453392
+
+NSeniorDesignPOP-Info.plist
+c000000004D922811000000000000038D
+t1301424145
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies323117706#323117706#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/BlockTestViewController.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323117708.757945
+e323117708.851564
+r1
+xCompileC
+xbuild/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/BlockTestViewController.o
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.m323117708#323117708#0(0"0(0#0#98"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.m8612723616#2468"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-generated-files.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-own-target-headers.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-all-target-headers.hmap -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-project-headers.hmap -F/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/include -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources/i386 -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources -include /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch -c /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.m -o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/BlockTestViewController.o0#
+
+CCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/ImageTestViewController.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323117708.783378
+e323117708.874141
+r1
+xCompileC
+xbuild/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/ImageTestViewController.o
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@106"Compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.m323117708#323117708#0(0"0(0#0#98"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.m8605384928#2468"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-generated-files.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-own-target-headers.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-all-target-headers.hmap -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-project-headers.hmap -F/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/include -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources/i386 -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources -include /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch -c /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.m -o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/ImageTestViewController.o0#
+
+CCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SeniorDesignPOPAppDelegate.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SeniorDesignPOPAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323117708.681653
+e323117708.783266
+r1
+xCompileC
+xbuild/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SeniorDesignPOPAppDelegate.o
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SeniorDesignPOPAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@109"Compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SeniorDesignPOPAppDelegate.m323117708#323117708#0(0"0(0#0#101"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SeniorDesignPOPAppDelegate.m8602011200#2474"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-generated-files.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-own-target-headers.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-all-target-headers.hmap -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-project-headers.hmap -F/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/include -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources/i386 -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources -include /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch -c /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SeniorDesignPOPAppDelegate.m -o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SeniorDesignPOPAppDelegate.o0#
+
+CCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SummaryViewController.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323117708.851673
+e323117708.920205
+r1
+xCompileC
+xbuild/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SummaryViewController.o
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@104"Compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.m323117708#323117708#0(0"0(0#0#96"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.m8602013856#2464"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-generated-files.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-own-target-headers.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-all-target-headers.hmap -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-project-headers.hmap -F/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/include -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources/i386 -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources -include /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch -c /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.m -o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SummaryViewController.o0#
+
+CCompileC build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/main.o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s323117708.680603
+e323117708.757838
+r1
+xCompileC
+xbuild/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/main.o
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/main.m323117708#323117708#0(0"0(0#0#71"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/main.m8612782944#2422"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-generated-files.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-own-target-headers.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-all-target-headers.hmap -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-project-headers.hmap -F/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/include -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources/i386 -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources -include /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch -c /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/main.m -o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestView.xib
+s323117706.648532
+e323117707.291528
+r1
+xCompileXIB
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestView.xib
+lSLF07#2@36"CompileXIB Classes/BlockTestView.xib323117706#323117707#0(0"0(0#0#90"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestView.xib8613648864#732"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/BlockTestView.nib /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/BlockTestViewController.xib
+r0
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestView.xib
+s323117707.291617
+e323117707.811697
+r1
+xCompileXIB
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestView.xib
+lSLF07#2@36"CompileXIB Classes/ImageTestView.xib323117707#323117707#0(0"0(0#0#90"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestView.xib8613885024#732"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/ImageTestView.nib /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/ImageTestViewController.xib
+r0
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryView.xib
+s323117707.326605
+e323117707.853109
+r1
+xCompileXIB
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryView.xib
+lSLF07#2@34"CompileXIB Classes/SummaryView.xib323117707#323117707#0(0"0(0#0#88"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryView.xib8613285728#728"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SummaryView.nib /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/Classes/SummaryViewController.xib
+r0
+
+CCompileXIB /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/MainWindow.xib
+s323117706.645657
+e323117707.326507
+r1
+xCompileXIB
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib323117706#323117707#0(0"0(0#0#79"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/MainWindow.xib8601608896#718"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/MainWindow.nib /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app.dSYM /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP
+s323117709.069708
+e323117709.132024
+r1
+xGenerateDSYMFile
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app.dSYM
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP
+lSLF07#2@133"GenerateDSYMFile build/Debug-iphonesimulator/SeniorDesignPOP.app.dSYM build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP323117709#323117709#0(0"0(0#0#128"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP8612901856#547"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/usr/bin/dsymutil /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP -o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app.dSYM0#
+
+CLd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP normal i386
+s323117708.920309
+e323117709.069611
+r1
+xLd
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP
+xnormal
+xi386
+lSLF07#2@133"Link /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP323117708#323117709#0(0"0(0#0#0"8605088352#1132"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator -F/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator -filelist /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/Objects-normal/i386/SeniorDesignPOP.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/SeniorDesignPOP0#
+
+CProcessInfoPlistFile /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/Info.plist SeniorDesignPOP-Info.plist
+s323117706.576352
+e323117706.645554
+r1
+xProcessInfoPlistFile
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/Info.plist
+xSeniorDesignPOP-Info.plist
+lSLF07#2@34"Process SeniorDesignPOP-Info.plist323117706#323117706#0(0"0(0#0#91"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/SeniorDesignPOP-Info.plist32933040433463412#643"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    builtin-infoPlistUtility SeniorDesignPOP-Info.plist -genpkginfo /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app/Info.plist0#
+
+CProcessPCH /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch.gch SeniorDesignPOP_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s323117707.853256
+e323117708.680392
+r1
+xProcessPCH
+x/var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch.gch
+xSeniorDesignPOP_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Precompile SeniorDesignPOP_Prefix.pch323117707#323117708#0(0"0(0#0#91"/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/SeniorDesignPOP_Prefix.pch8614099360#2280"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-generated-files.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-own-target-headers.hmap -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-all-target-headers.hmap -iquote /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/SeniorDesignPOP-project-headers.hmap -F/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/include -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources/i386 -I/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/SeniorDesignPOP.build/Debug-iphonesimulator/SeniorDesignPOP.build/DerivedSources -c /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/SeniorDesignPOP_Prefix.pch -o /var/folders/-T/-T0peX7XEamw0J59BwjrfU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SeniorDesignPOP_Prefix-afkjohyxjurkhldhyowovyiqztze/SeniorDesignPOP_Prefix.pch.gch0#
+
+CTouch /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app
+s323117709.132114
+e323117709.142543
+r1
+xTouch
+x/Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app
+lSLF07#2@118"Touch /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app323117709#323117709#0(0"0(0#0#0"8612596768#400"    cd /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/opt/local/bin:/usr/local/git/bin"    /usr/bin/touch -c /Users/tguidon/iPhone-Mobile-Imaging-Application/SeniorDesignPOP/build/Debug-iphonesimulator/SeniorDesignPOP.app0#
+
